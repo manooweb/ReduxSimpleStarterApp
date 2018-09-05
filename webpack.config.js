@@ -10,16 +10,13 @@ module.exports = {
       {
         exclude: /node_modules/,
         use: {
-            loader: 'babel-loader',
-            options: {
-                presets: ['react', 'es2015', 'stage-1']
-            }
+            loader: 'babel-loader'
         }
       }
     ]
   },
   resolve: {
-    extensions: ['.js', '.jsx']
+    extensions: ['.js']
   },
   devServer: {
     historyApiFallback: true,
