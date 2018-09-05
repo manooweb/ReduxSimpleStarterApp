@@ -1,5 +1,5 @@
 {
-  "name": "redux-simple-starter",
+  "name": "redux-simple-starter-app",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
@@ -21,9 +21,9 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
-    "lodash": "^3.10.1",
-    "react": "16.3.2",
-    "react-dom": "16.3.2",
+    "lodash": "^4.17.5",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
     "react-redux": "5.0.7",
     "redux": "4.0.0"
   }

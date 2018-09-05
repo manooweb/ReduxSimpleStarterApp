@@ -2,6 +2,9 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
+Clone from Stephen Grider github repository https://github.com/StephenGrider/ReduxSimpleStarter
+and updated with more rencent version of React and Lodash
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
